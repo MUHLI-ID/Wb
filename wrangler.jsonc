@@ -1,6 +1,6 @@
 {
   "name": "home",
-  "main": "index.html",
+  "main": "/index.html",
   "compatibility_date": "2026-02-08",
   "workers_dev": false,
   "assets": {
